@@ -16,3 +16,7 @@ In the petroleum refining industry, sensor data is often noisy, making it diffic
 ## Tools Used
 - Python (Pandas, NumPy, Scikit-Learn)
 - Data Visualization (Matplotlib, Seaborn)
+
+## Dataset Source
+The dataset used in this project is publicly available on Kaggle:
+Heat Exchanger Dataset : Parametric Study([KAGGLE_DATASET_LINK](https://www.kaggle.com/datasets/kuriangeorge/heat-exchanger-dataset-parametric-study))
